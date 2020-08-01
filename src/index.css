@@ -5,11 +5,11 @@
 
 :root {
   --primary: #2A7AE4;
-  --black: #000000;
+  --black: #8fadad; /*corrigir variavel depois no restante do código*/
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
   --grayMedium: #e5e5e5; 
-  --white: #FFFFFF;
+  --white: #103481;/*corrigir variavel depois no restante do código*/
   --frontEnd: #6BD1FF;
   --backEnd: #00C86F;
 }

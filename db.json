@@ -1,0 +1,10 @@
+{
+  "categorias": [
+      {
+        "id": 1,
+        "nome": "Tem Cafeína?",
+        "descricao":"É o programa onde sem spoiler falamos se a série é viciante, ou seja, se ela Tem Cafeína suficiente para você fazer uma maratona ou não.",
+        "cor": "#cbd1ff"
+      }
+    ]   
+}
