@@ -1,10 +1,120 @@
 {
   "categorias": [
-      {
-        "id": 1,
-        "nome": "Tem Cafeína?",
-        "descricao":"É o programa onde sem spoiler falamos se a série é viciante, ou seja, se ela Tem Cafeína suficiente para você fazer uma maratona ou não.",
-        "cor": "#cbd1ff"
+    {
+      "id": 1,
+      "titulo": "Tem Cafeína?",
+      "cor": "#cbd1ff",
+      "link_extra": {
+        "text": "Sem spoiler falamos se a série Tem Cafeína suficiente para você fazer uma maratona ou não.",
+        "url": "https://www.youtube.com/playlist?list=PLut0WnaGdTR1ly9AAbyD_8zsIeiF9wqsL"
       }
-    ]   
+    },
+    {
+      "id": 2,
+      "titulo": "Café ou Chá...fé",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Expectativas sobre assuntos variados como séries e filmes",
+        "url": "https://www.youtube.com/playlist?list=PLut0WnaGdTR0aNKDG3yVsAtnWPvCUxx1y"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Uber, Isso é muito Black Mirror",
+      "url": "https://www.youtube.com/watch?v=4AoJ9LWgqUo"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Tente não rir, a gente não conseguiu",
+      "url": "https://www.youtube.com/watch?v=7B4fvzD-JrI&t=1s"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Marlon tem Cafeína?",
+      "url": "https://www.youtube.com/watch?v=p1xB1NUDbfw&list=PLut0WnaGdTR1ly9AAbyD_8zsIeiF9wqsL&index=14&t=0s"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "3 motivos para assistir Desencanto",
+      "url": "https://www.youtube.com/watch?v=sSUg-bM-eXw&list=PLut0WnaGdTR1ly9AAbyD_8zsIeiF9wqsL&index=13&t=0s"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Stranger Things Season 2 - Vale a pena? Parte 1",
+      "url": "https://www.youtube.com/watch?v=NlPC5zmveg0&list=PLut0WnaGdTR1ly9AAbyD_8zsIeiF9wqsL&index=11&t=0s"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Stranger Things Season 2 - Vale a pena? Parte 2",
+      "url": "https://www.youtube.com/watch?v=nzz_7UrqDR0&list=PLut0WnaGdTR1ly9AAbyD_8zsIeiF9wqsL&index=12&t=0s"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "3 motivos para assistir Big Mouth",
+      "url": "https://www.youtube.com/watch?v=COICu6_xXs8&list=PLut0WnaGdTR1ly9AAbyD_8zsIeiF9wqsL&index=10&t=0s"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Quem é o Master",
+      "url": "https://www.youtube.com/watch?v=7jAtf88uivs&list=PLut0WnaGdTR1ly9AAbyD_8zsIeiF9wqsL&index=4&t=0s"
+    },
+    {
+      "id": 9,
+      "categoriaId": 1,
+      "titulo": "Qual o objeto mais útil do universo?",
+      "url": "https://www.youtube.com/watch?v=WrwUPof-fPI&list=PLut0WnaGdTR1ly9AAbyD_8zsIeiF9wqsL&index=5&t=0s"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Dirky Gently X Black Lightning",
+      "url": "https://www.youtube.com/watch?v=NCAiR9VDc60"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Liga da Justiça - Trailer Comentado",
+      "url": "https://www.youtube.com/watch?v=qukr4Z8o1eQ&list=PLut0WnaGdTR0aNKDG3yVsAtnWPvCUxx1y&index=2&t=0s"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Expectativas e curiosidades sobre 13 Reasons Why",
+      "url": "https://www.youtube.com/watch?v=MU-VBDPy1Uk&list=PLut0WnaGdTR0aNKDG3yVsAtnWPvCUxx1y&index=3&t=21s"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "O que é o Ragnarok? Quadrinhos e Mitologia",
+      "url": "https://www.youtube.com/watch?v=UgtpdcBu66g&list=PLut0WnaGdTR0aNKDG3yVsAtnWPvCUxx1y&index=4&t=0s"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "Mulher Maravilha (Crítica)",
+      "url": "https://www.youtube.com/watch?v=PBakJtqazqI&list=PLut0WnaGdTR0aNKDG3yVsAtnWPvCUxx1y&index=5&t=0s"
+    },
+    {
+      "id": 15,
+      "categoriaId": 2,
+      "titulo": "Nostalgia para gamer - Hi Score Girl",
+      "url": "https://www.youtube.com/watch?v=fU7hQnBsvuk&list=PLut0WnaGdTR0aNKDG3yVsAtnWPvCUxx1y&index=6&t=0s"
+    },
+    {
+      "titulo": "Doctor Who - O que esperar da nova temporada",
+      "url": "https://www.youtube.com/watch?v=3M1pmLphJ-M",
+      "categoriaId": 1,
+      "id": 16
+    }
+  ]
 }
